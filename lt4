@@ -31,6 +31,8 @@ http://209.14.114.41:8080/play/a0c3/index.m3u8
 http://209.14.114.41:8080/play/a0b6/index.m3u8
 #EXTINF:-1 group-title="-",Disney Jr
 http://209.14.114.41:8080/play/a0cg/index.m3u8
+#EXTINF:-1,DREAMWORKS
+http://179.49.163.34:45000/play/a011/index.m3u8
 #EXTINF:-1 group-title="-",ESPN
 http://209.14.114.41:8080/play/a0eh/index.m3u8
 #EXTINF:-1 group-title="-",FX
@@ -75,6 +77,8 @@ http://209.14.114.41:8080/play/a0fl/index.m3u8
 http://209.14.114.41:8080/play/a0by/index.m3u8
 #EXTINF:-1 group-title="-",TyC
 http://209.14.114.41:8080/play/a0bf/index.m3u8
+#EXTINF:-1,VENUS
+http://181.209.114.13:8000/play/a033/index.m3u8
 #EXTINF:-1 group-title="-",Warner
 http://209.14.114.41:8080/play/a0ft/index.m3u8
 #EXTINF:-1 group-title="-",Win
