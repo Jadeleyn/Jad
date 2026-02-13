@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="DEP• CLARO SPORTS CO (HD)" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
+http://fastream.xyz:8080/live/997866173tv/xk6489/463.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Mexico" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png" group-title="PLUTO TV MEXICO",Claro Sports Mexico
+https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Claro Sports 2 (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="CANALES-DEPORTES",DEPORTES - Claro Sports 2 (Z)(720)
+http://tv.zeuspro.xyz:8080/live/brucasarez2/UEzQwpa6pV/9556.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="CHILE [GEO BLOQUEO]",Claro Sports
+http://tv.zeuspro.xyz:8080/live/brucasarez2/UEzQwpa6pV/10151.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Chile" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="CHILE [GEO BLOQUEO]",Claro Sports Chile
+http://tv.zeuspro.xyz:8080/live/brucasarez2/UEzQwpa6pV/10152.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="COL-Claro Sports (M)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="COLOMBIA",COL-Claro Sports (M)
+http://tv.zeuspro.xyz:8080/live/brucasarez2/UEzQwpa6pV/8488.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GUA-Claro Sports GT (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/3c59dc048e8850243be8079a5c74d079.png" group-title="GUATEMALA",GUA-Claro Sports GT (TV)(720)
+http://tv.zeuspro.xyz:8080/live/brucasarez2/UEzQwpa6pV/8262.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PAN-Claro Sports PAN 3 (M)(SD)" tvg-logo="https://i.postimg.cc/SKCqygwy/Proyecto-X-Panama-10.png" group-title="PANAMA",PAN-Claro Sports PAN 3 (M)(SD)
+http://tv.zeuspro.xyz:8080/live/brucasarez2/UEzQwpa6pV/154354.m3u8
+
+
