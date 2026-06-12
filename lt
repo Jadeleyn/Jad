@@ -201,5 +201,7 @@ http://181.78.85.59:2500/play/a030/index.m3u8
 http://181.78.85.59:2500/play/a00l/index.m3u8
 #EXTINF:-1 group-title="-",Zoom
 http://181.78.85.59:2500/play/a01x/index.m3u8
+#EXTINF:-1 group-title="-",DSport
+http://190.108.93.180:8000/play/a054/index.m3u8
 
 
