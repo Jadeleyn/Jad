@@ -67,6 +67,11 @@ http://181.78.17.52:8000/play/a0vd/index.m3u8
 #EXTINF:-1,TNT SPORTS
 http://181.78.17.52:8000/play/a0t9/index.m3u8
 
+#EXTINF:-1,Directv Sports
+http://152.231.29.139:8000/play/a0jk/index.m3u8
+#EXTINF:-1,Tigo Sport
+http://152.231.29.139:8000/play/a0jj/index.m3u8
+
 
 
 
